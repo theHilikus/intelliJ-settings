@@ -1,6 +1,12 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="AutoIndentLines" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />

@@ -1,0 +1,21 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-03-21T14:25:25</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-03-22T11:38:36</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <attributes>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="c6dbae" />
+        <option name="ERROR_STRIPE_COLOR" value="2154a6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
