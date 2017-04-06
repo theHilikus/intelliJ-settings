@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[counters-rest-service] - ...\src\main\java\com\ubisoft\dna\counters\CounterServiceApp.java'" />
-    <option name="defaultScopeName" value="File '[counters-rest-service] - ...\src\main\java\com\ubisoft\dna\counters\CounterServiceApp.java'" />
-    <option name="SEARCH_SCOPE" value="File '[counters-rest-service] - ...\src\main\java\com\ubisoft\dna\counters\CounterServiceApp.java'" />
+    <option name="customScope" value="File '[Gandalf] - D:\dev\git\gandalf\src\main\java\com\ubisoft\dna\gandalf\BaseApplication.java'" />
+    <option name="defaultScopeName" value="File '[Gandalf] - D:\dev\git\gandalf\src\main\java\com\ubisoft\dna\gandalf\BaseApplication.java'" />
+    <option name="SEARCH_SCOPE" value="File '[Gandalf] - D:\dev\git\gandalf\src\main\java\com\ubisoft\dna\gandalf\BaseApplication.java'" />
   </component>
 </application>
