@@ -53,7 +53,7 @@
     </option>
     <option name="METHOD_OPTIONS">
       <value>
-        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="protected" />
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
         <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
       </value>
     </option>
