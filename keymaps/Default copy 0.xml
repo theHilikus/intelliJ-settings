@@ -8,4 +8,9 @@
     <mouse-shortcut keystroke="control alt button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="ImplementMethods" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
 </keymap>
