@@ -1,0 +1,4 @@
+<list display="Navigate to..." description="Possible navigate to destinations">
+  <action id="GotoDeclaration" />
+  <action id="GotoImplementation" />
+</list>
