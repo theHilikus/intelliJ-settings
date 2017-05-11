@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 0" parent="$default">
+<keymap version="1" name="aendo-keys" parent="$default">
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="button2" />
@@ -13,4 +13,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace" />
 </keymap>
