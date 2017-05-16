@@ -38,7 +38,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-41926" />
+                              <option name="color" value="-42913" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -53,7 +53,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-256" />
+                              <option name="color" value="-3959" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -68,7 +68,7 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-8355712" />
+                              <option name="color" value="-4144960" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -83,7 +83,7 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-4144960" />
+                              <option name="color" value="-8355712" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
