@@ -7,6 +7,11 @@
           <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
