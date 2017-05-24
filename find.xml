@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '[ChallengesTopology] - ...\src\main\java\com\ubisoft\dna\challenges\topology\functions\community\CommunityChallengeState.java'" />
+    <option name="defaultScopeName" value="File '[ChallengesTopology] - ...\src\main\java\com\ubisoft\dna\challenges\topology\functions\community\CommunityChallengeState.java'" />
+    <option name="SEARCH_SCOPE" value="File '[ChallengesTopology] - ...\src\main\java\com\ubisoft\dna\challenges\topology\functions\community\CommunityChallengeState.java'" />
   </component>
 </application>
