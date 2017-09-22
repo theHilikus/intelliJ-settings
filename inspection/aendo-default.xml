@@ -9,7 +9,9 @@
   <inspection_tool class="AssignmentToStaticFieldFromInstanceMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToSuperclassField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentUsedAsCondition" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="METHOD_MATCHER_CONFIG" value="java.util.Formatter,format,java.io.Writer,append,com.google.common.base.Preconditions,checkNotNull,org.hibernate.Session,close,java.io.PrintWriter,printf,org.springframework.boot.SpringApplication,run" />
+  </inspection_tool>
   <inspection_tool class="ChannelResource" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="insideTryAllowed" value="false" />
   </inspection_tool>
@@ -84,8 +86,8 @@
   <inspection_tool class="MagicNumber" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MethodCount" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="20" />
-    <option name="ignoreGettersAndSetters" value="false" />
-    <option name="ignoreOverridingMethods" value="false" />
+    <option name="ignoreGettersAndSetters" value="true" />
+    <option name="ignoreOverridingMethods" value="true" />
   </inspection_tool>
   <inspection_tool class="MethodOnlyUsedFromInnerClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreMethodsAccessedFromAnonymousClass" value="false" />
@@ -117,7 +119,7 @@
     <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="false" />
     <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
   </inspection_tool>
-  <inspection_tool class="unused" enabled="true" level="WARNING" enabled_by_default="true" klass="packageLocal" method="protected">
+  <inspection_tool class="unused" enabled="true" level="WARNING" enabled_by_default="true" klass="packageLocal" field="protected" method="protected">
     <option name="LOCAL_VARIABLE" value="true" />
     <option name="FIELD" value="true" />
     <option name="METHOD" value="true" />
