@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="gcloud" />
       <option name="PARAMETERS" value="config set project hive-intercom-prod" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
