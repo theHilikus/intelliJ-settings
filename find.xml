@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default" />
-    <option name="defaultScopeName" value="Default" />
-    <option name="SEARCH_SCOPE" value="Default" />
+    <option name="customScope" value="File '.../sinch/src/main/java/com/hivebuzzer/backend/sinch/callback/requests/IncomingCallEventRequest.java [sinch]'" />
+    <option name="defaultScopeName" value="File '.../sinch/src/main/java/com/hivebuzzer/backend/sinch/callback/requests/IncomingCallEventRequest.java [sinch]'" />
+    <option name="SEARCH_SCOPE" value="File '.../sinch/src/main/java/com/hivebuzzer/backend/sinch/callback/requests/IncomingCallEventRequest.java [sinch]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
