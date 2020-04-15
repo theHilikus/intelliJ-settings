@@ -4,9 +4,13 @@
       <set>
         <option value="nl.rubensten.texifyidea:Latex" />
         <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+        <option value="tanvd.grazi:TEXT" />
+      </set>
+    </option>
+    <option name="disabledGrammarStrategies">
+      <set>
         <option value="tanvd.grazi:JAVA" />
         <option value="tanvd.grazi:Properties" />
-        <option value="tanvd.grazi:TEXT" />
         <option value="tanvd.grazi:XML" />
         <option value="tanvd.grazi:yaml" />
       </set>
