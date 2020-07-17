@@ -1,12 +1,5 @@
 <application>
   <component name="GraziConfig">
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:TEXT" />
-      </set>
-    </option>
     <option name="disabledGrammarStrategies">
       <set>
         <option value="tanvd.grazi:JAVA" />
@@ -15,13 +8,17 @@
         <option value="tanvd.grazi:yaml" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="EUPUB_AGENT" />
+      </set>
+    </option>
     <option name="userEnabledRules">
       <set>
         <option value="EUPUB_FINANCIAL_ENVELOPE" />
         <option value="WHAT_I_MEAN_TO_SAY_IS_THAT" />
         <option value="EUPUB_ENTERPRISE" />
         <option value="AT_ALL_TIMES" />
-        <option value="EUPUB_AGENT" />
         <option value="IN_THE_EVENT" />
         <option value="IN_THE_PROCESS_OF" />
         <option value="WAITING_MY_PATIENT" />
