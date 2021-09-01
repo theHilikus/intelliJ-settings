@@ -20,10 +20,10 @@
         <entry key="app/src/main/res/drawable/progress_dot_default.xml" value="0.33101851851851855" />
         <entry key="app/src/main/res/drawable/rounded.xml" value="0.33101851851851855" />
         <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.33101851851851855" />
-        <entry key="app/src/main/res/layout/activity_access_code.xml" value="0.15555555555555556" />
+        <entry key="app/src/main/res/layout/activity_access_code.xml" value="0.18425925925925926" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_settings.xml" value="0.15555555555555556" />
-        <entry key="app/src/main/res/layout/activity_support.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_support.xml" value="0.22" />
         <entry key="app/src/main/res/layout/hive_toolbar.xml" value="0.15555555555555556" />
       </map>
     </option>
