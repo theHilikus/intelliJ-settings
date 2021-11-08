@@ -1,20 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'a-life-java'" />
+    <option name="defaultScopeName" value="Project 'a-life-java'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
+    <option name="SEARCH_SCOPE" value="Project 'a-life-java'" />
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>pom.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
