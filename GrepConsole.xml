@@ -6,6 +6,12 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="HILI" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -16,6 +22,36 @@
             <list>
               <GrepModel>
                 <option name="expression" value="HILI" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="HILI" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Dropped" />
               </GrepModel>
             </list>
           </option>
