@@ -42,6 +42,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="Dropped" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="HILI" />
               </GrepModel>
             </list>
@@ -51,7 +60,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Dropped" />
+                <option name="expression" value="WARN" />
               </GrepModel>
             </list>
           </option>

@@ -36,7 +36,6 @@
         <option value="LanguageTool.EN.IN_THE_AFFIRMATIVE" />
         <option value="LanguageTool.EN.HOPEFULLY" />
         <option value="LanguageTool.EN.TOO_LONG_PARAGRAPH" />
-        <option value="LanguageTool.EN.EN_QUOTES" />
         <option value="LanguageTool.EN.PLUS_MINUS" />
         <option value="LanguageTool.EN.HONEST_TRUTH" />
         <option value="LanguageTool.EN.CURRENTLY" />
@@ -81,7 +80,6 @@
         <option value="LanguageTool.EN.MAKE_DECISIONS_ABOUT" />
         <option value="LanguageTool.EN.WHITESPACE_PARAGRAPH_BEGIN" />
         <option value="LanguageTool.EN.IN_A_VERY_REAL_SENSE" />
-        <option value="LanguageTool.EN.WHITESPACE_RULE" />
         <option value="LanguageTool.EN.COMMA_WHICH" />
         <option value="LanguageTool.EN.CLEARLY_OR_OBVIOUSLY" />
         <option value="LanguageTool.EN.WITH_OR_IN_REFERENCE_OR_REGARD_TO" />
@@ -98,7 +96,6 @@
         <option value="LanguageTool.EN.TOO_LONG_SENTENCE" />
         <option value="LanguageTool.EN.FOR_ALL_INTENTS_AND_PURPOSES" />
         <option value="LanguageTool.EN.THREE_NN" />
-        <option value="LanguageTool.EN.HYPOTHESIS_TYPOGRAPHY" />
         <option value="LanguageTool.EN.THAT_EXISTS" />
         <option value="LanguageTool.EN.ELLIPSIS" />
         <option value="LanguageTool.EN.WRONG_APOSTROPHE" />
@@ -115,7 +112,6 @@
         <option value="LanguageTool.EN.ARE_ABLE_TO" />
         <option value="LanguageTool.EN.ACCELERATE" />
         <option value="LanguageTool.EN.NOT_ABLE" />
-        <option value="LanguageTool.EN.COMMA_PARENTHESIS_WHITESPACE" />
         <option value="LanguageTool.EN.SENTENCE_WHITESPACE" />
         <option value="LanguageTool.EN.IN_MY_OPINION" />
         <option value="LanguageTool.EN.CURRENCY_SPACE" />
