@@ -4,11 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>pom.xml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -16,5 +16,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
