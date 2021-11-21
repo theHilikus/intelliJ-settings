@@ -78,6 +78,17 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="caseSensitive" value="true" />
+                <option name="expression" value="HILI" />
+                <option name="wholeWords" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="EventQueue" />
               </GrepModel>
             </list>
@@ -88,17 +99,6 @@
             <list>
               <GrepModel>
                 <option name="expression" value="Cause of death=Ener" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="caseSensitive" value="true" />
-                <option name="expression" value="HILI" />
-                <option name="wholeWords" value="true" />
               </GrepModel>
             </list>
           </option>
