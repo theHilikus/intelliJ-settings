@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Minor refactoring" />
+    <option name="defaultScopeName" value="Minor refactoring" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Minor refactoring" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>pom.xml</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
