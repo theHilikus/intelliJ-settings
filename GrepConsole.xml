@@ -89,7 +89,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="EventQueue" />
+                <option name="expression" value="Cause of death=Ener" />
               </GrepModel>
             </list>
           </option>
@@ -98,7 +98,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Cause of death=Ener" />
+                <option name="expression" value="EventQueue" />
               </GrepModel>
             </list>
           </option>
