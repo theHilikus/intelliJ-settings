@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Minor refactoring" />
-    <option name="defaultScopeName" value="Minor refactoring" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Minor refactoring" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
