@@ -1,5 +1,11 @@
 <application>
   <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="French" />
+      </set>
+    </option>
     <option name="disabledGrammarStrategies">
       <set>
         <option value="tanvd.grazi:JAVA" />
@@ -13,7 +19,6 @@
         <option value="LanguageTool.EN.EG_NO_COMMA" />
         <option value="LanguageTool.EN.ARE_ABLE_TO" />
         <option value="LanguageTool.EN.CANT_HELP_BUT" />
-        <option value="LanguageTool.EN.SENTENCE_WHITESPACE" />
         <option value="LanguageTool.EN.COMMA_PERIOD_CONFUSION" />
         <option value="LanguageTool.EN.WHITESPACE_PARAGRAPH_BEGIN" />
         <option value="LanguageTool.EN.CAPITALIZATION_NNP_DERIVED" />
@@ -33,7 +38,6 @@
         <option value="LanguageTool.EN.ARROWS" />
         <option value="LanguageTool.EN.SENT_START_NUM" />
         <option value="LanguageTool.EN.HOPEFULLY" />
-        <option value="LanguageTool.EN.ELLIPSIS" />
         <option value="LanguageTool.EN.TRADEMARK" />
         <option value="LanguageTool.EN.WRONG_APOSTROPHE" />
         <option value="LanguageTool.EN.TOO_LONG_PARAGRAPH" />
@@ -47,7 +51,6 @@
         <option value="LanguageTool.EN.WHITESPACE_PARAGRAPH" />
         <option value="LanguageTool.EN.APOSTROPHE_IN_DATES" />
         <option value="LanguageTool.EN.SERIAL_COMMA_ON" />
-        <option value="LanguageTool.EN.SENTENCE_FRAGMENT" />
         <option value="LanguageTool.EN.EN_UNPAIRED_BRACKETS" />
         <option value="LanguageTool.EN.APOSTROPHE_IN_DAYS" />
         <option value="LanguageTool.EN.I_VE_A" />
