@@ -1,4 +1,22 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="problems" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="aendo-default" />
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
@@ -6,8 +24,7 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="PRESELECT_RENAME" value="false" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value=".references" />
   </component>
 </application>
